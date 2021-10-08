@@ -21,7 +21,7 @@
 // THE SOFTWARE.
 /*
 
-   Name: Angel Delgado
+   Name:
    ID:
 
  */
