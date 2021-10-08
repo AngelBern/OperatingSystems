@@ -1,4 +1,4 @@
-#author Angel Delgado
+#author
 #CSE 3320 Spring 2021
 
 
